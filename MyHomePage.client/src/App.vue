@@ -1,13 +1,9 @@
 <template>
-  <header>
-    <Navbar />
-  </header>
+
   <main class="container-fluid">
     <router-view />
   </main>
-   <footer class="bg-dark text-light">
-    
-  </footer>
+  
 </template>
 
 <script>
