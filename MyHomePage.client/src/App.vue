@@ -3,6 +3,13 @@
   <main class="container-fluid">
     <router-view />
   </main>
+  <footer class="d-flex justify-content-center">
+
+  
+      <iframe src="https://widgets.media.sportradar.com/uscommon/en_us/standalone/us.match.nfl.liveMatchCarousel#border=false" frameborder="0" height="200" width="800"></iframe>
+    
+   
+  </footer>
   
 </template>
 
@@ -28,9 +35,4 @@ export default {
 }
 
 
-footer {
-  display: grid;
-  place-content: center;
-  height: 32px;
-}
 </style>
