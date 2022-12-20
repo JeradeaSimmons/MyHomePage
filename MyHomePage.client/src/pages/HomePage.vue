@@ -12,6 +12,9 @@ links to
 -github
 -email
 -->
+<body>
+  
+</body>
 
 
 
@@ -28,4 +31,11 @@ setup() {
 };
 </script>
 <style lang="scss" scoped>
+body{
+  background-image: url('https://source.unsplash.com/random/900×700/?nature');
+  background-position: center;
+  background-size: cover;
+  min-height: 75em;
+}
+
 </style>
