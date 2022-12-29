@@ -22,6 +22,12 @@ links to
         
       </div>
     </div>
+    <div class="row text-white text-center">Positive quote?</div>
+    <div class="row text-white">
+      <div class="col-md-3">LOCAL/WORLD NEWS</div>
+      <div class="col-md-3">TECH NEWS</div>
+      <div class="col-md-3">LINKS TO LINKEDIN GITHUB INSTAGRAM</div>
+    </div>
 </body>
 
 
