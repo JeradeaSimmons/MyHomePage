@@ -22,12 +22,23 @@ links to
         
       </div>
     </div>
-    <div class="row text-white text-center">Positive quote?</div>
-    <div class="row text-white">
+    <div class="row text-white text-center">
+   </div>
+    <div class="row text-white d-flex justify-content-evenly">
       <div class="col-md-3">LOCAL/WORLD NEWS</div>
       <div class="col-md-3">TECH NEWS</div>
-      <div class="col-md-3">LINKS TO LINKEDIN GITHUB INSTAGRAM</div>
-    </div>
+      <div class="col-md-3">
+        <iframe align="center"
+          src="//widget.calendarlabs.com/v1/quot.php?cid=101&ver=1.2&uid=9442536361&c=random&l=en&cbg=FFFFFF&cb=1&cbc=000000&cf=calibri&cfg=000000&qfs=bi&qta=center&tfg=000000&tfs=bi&afc=000000&afs=i"
+          width="300" height="210" marginwidth=0 marginheight=0 frameborder=0 scrolling=no
+          allowtransparency='true'>Loading...</iframe>
+        <div align="center" style="width:250px;font-size:10px;color:#333;">Daily Quotes by <a
+            href="https://www.calendarlabs.com/" target="_blank" rel="nofollow"
+            style="font-size:10px;text-decoration:none;color:#333;">CalendarLabs</a>
+        </div>
+      </div>
+      </div>
+    
 </body>
 
 
