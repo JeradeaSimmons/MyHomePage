@@ -21,7 +21,7 @@ links to
           width="100%" height="140" frameborder="0" seamless></iframe> </div>
     </div>
   </div>
-
+<!-- Possibly find different ones. Better fit for what I want. -->
   <div class="row">
     <iframe width="900" height="700" src="https://rss.app/embed/v1/imageboard/tIta2nNwsgtjjGup"
       frameborder="0"></iframe>
